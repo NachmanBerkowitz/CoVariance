@@ -1,0 +1,15 @@
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\bin\Debug\net6.0\CoVariance.exe
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\bin\Debug\net6.0\CoVariance.deps.json
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\bin\Debug\net6.0\CoVariance.runtimeconfig.json
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\bin\Debug\net6.0\CoVariance.dll
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\bin\Debug\net6.0\CoVariance.pdb
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\obj\Debug\net6.0\CoVariance.csproj.AssemblyReference.cache
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\obj\Debug\net6.0\CoVariance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\obj\Debug\net6.0\CoVariance.AssemblyInfoInputs.cache
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\obj\Debug\net6.0\CoVariance.AssemblyInfo.cs
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\obj\Debug\net6.0\CoVariance.csproj.CoreCompileInputs.cache
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\obj\Debug\net6.0\CoVariance.dll
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\obj\Debug\net6.0\refint\CoVariance.dll
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\obj\Debug\net6.0\CoVariance.pdb
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\obj\Debug\net6.0\CoVariance.genruntimeconfig.cache
+C:\Users\nberkowitz\source\repos\CoVariance\CoVariance\obj\Debug\net6.0\ref\CoVariance.dll
